@@ -10,3 +10,5 @@ Evento: Encuentro Centroamericano de Software Libre 2020
 
 https://softwarelibre.ca/
 
+### Licencia
+Licencia de producción de pares: https://endefensadelsl.org/ppl_deed_es.html
