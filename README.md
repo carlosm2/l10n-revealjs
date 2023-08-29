@@ -8,7 +8,7 @@ Slides/Diapositivas: https://tierracomun.org/slides/ecsl2020/
 
 Evento: Encuentro Centroamericano de Software Libre 2020
 
-https://softwarelibre.ca/
+https://cacu.tech/ecsl2020/
 
 ### Licencia
 Licencia de producción de pares: https://endefensadelsl.org/ppl_deed_es.html
