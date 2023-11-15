@@ -14,5 +14,7 @@ Evento: Encuentro Centroamericano de Software Libre 2020
 
 https://cacu.tech/ecsl2020/
 
+Backup at: https://0xacab.org/carlosm2/l10n-slides/
+
 ### Licencia
 Licencia de producción de pares: https://endefensadelsl.org/ppl_deed_es.html
